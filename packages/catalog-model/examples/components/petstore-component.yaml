@@ -11,7 +11,7 @@ metadata:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
       icon: github
-    - url: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/327908/Demo+Document+2
+    - url: https://demo-app-2.atlassian.net/wiki/spaces/MYS/pages/327908/Demo+Document+1
       title: Confluence Doc
 spec:
   type: service
