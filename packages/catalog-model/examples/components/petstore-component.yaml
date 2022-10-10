@@ -7,7 +7,7 @@ metadata:
   annotations:
     jira/project-key: SEM
     backstage.io/techdocs-ref: value
-    sonarqube.org/project-key: adityaberojya
+    sonarqube.org/project-key: backstage-demo-2
   links:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
