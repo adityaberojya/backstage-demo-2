@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  name: artist-lookup
   description: Artist Lookup
   tags:
     - java
@@ -27,10 +28,3 @@ metadata:
     - url: https://example.com/alert
       title: Alerts
       icon: alert
-spec:
-  type: service
-  lifecycle: experimental
-  owner: team-a
-  system: artist-engagement-portal
-  dependsOn: ['resource:artists-db']
-  apiConsumedBy: ['component:www-artist']
