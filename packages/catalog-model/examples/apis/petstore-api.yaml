@@ -16,5 +16,5 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+
   definition: https://github.com/adityaberojya/backstage-demo-2/blob/master/packages/catalog-model/examples/apis/petstore-api.yaml
