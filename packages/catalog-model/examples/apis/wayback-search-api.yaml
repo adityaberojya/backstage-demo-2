@@ -4,7 +4,6 @@ metadata:
   name: wayback-search
   description: Search API for the wayback machine
 spec:
-  type: openapi
   lifecycle: production
   owner: team-a
   definition:
