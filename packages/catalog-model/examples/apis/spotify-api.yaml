@@ -11,6 +11,7 @@ metadata:
     backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml'
 spec:
   type: openapi
+  adityatype: randomapi
   lifecycle: production
   owner: team-a
   definition:
