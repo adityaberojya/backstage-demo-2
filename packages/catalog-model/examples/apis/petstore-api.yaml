@@ -15,6 +15,7 @@ metadata:
       icon: code
 spec:
   type: openapi
+  adityatype: randomapi
   lifecycle: experimental
 
   definition: https://github.com/adityaberojya/backstage-demo-2/blob/master/packages/catalog-model/examples/apis/petstore-api.yaml
