@@ -1,5 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
+adityatype: Adi
 metadata:
   name: spotify
   description: The Spotify web API
