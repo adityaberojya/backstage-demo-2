@@ -1,6 +1,5 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
-adityatype: Adi2
 metadata:
   name: streetlights
   description: The Smartylighting Streetlights API allows you to remotely manage the city lights.
@@ -13,6 +12,7 @@ metadata:
 spec:
   type: asyncapi
   lifecycle: production
+  adityatype: Adi2
   owner: team-c
   definition: |
     asyncapi: 2.0.0
